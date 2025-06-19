@@ -17,7 +17,7 @@ function Social() {
             <FaInstagram className="w-6 h-6" />
           </a>
           <a
-            href="https://l.instagram.com/?u=https%3A%2F%2Fchat.whatsapp.com%2FHqk3S1XaMJL9kMxDFSVESs%3Ffbclid%3DPAZXh0bgNhZW0CMTEAAafxPO94chgYfU9lZK9JBNc36y11zeAGjpml0MuvTasoLE54a5CXGyPbGSjlfQ_aem_cA0wir6iS_IYAtNqGBIIGw&e=AT3qIxFkwPLuKzwMgSi_TkKR43S83tIjh_LSuMoD06mQcZdexEr6wcikc299jlP39Zt6jgWcB1UdrnbDvWhWJOeX5o-IxNL5g1lXZSs" 
+            href="https://chat.whatsapp.com/Hqk3S1XaMJL9kMxDFSVESs?fbclid=PAZXh0bgNhZW0CMTEAAafxPO94chgYfU9lZK9JBNc36y11zeAGjpml0MuvTasoLE54a5CXGyPbGSjlfQ_aem_cA0wir6iS_IYAtNqGBIIGw" 
             target="_blank"
             rel="noopener noreferrer"
             className="text-gray-500 hover:text-gray-900 transition-colors duration-200"
@@ -26,7 +26,7 @@ function Social() {
             <FaWhatsapp className="w-6 h-6" />
           </a>
           <a
-            href="https://l.instagram.com/?u=https%3A%2F%2Fstrava.app.link%2F4d6zNdexBRb%3Ffbclid%3DPAZXh0bgNhZW0CMTEAAadFHl80G-E3BIg4HRl9j6M6Q6ER-sVG8ktx1iaLacKaKuZ6K6hg6Jn1nDrCow_aem_0fphAXvoeomF2TJ291SqbA&e=AT21Pb-fNp4RqgkMbP0iqPw0VojOjzToiG61_KqMoMcr7dHRO7kVThS4XeEpZt8Qpw6UcbB4GFueAyNG8enZyG7TNzw2c8PgQjl4Cy4"
+            href="https://www.strava.com/clubs/coffeerunpy?share_sig=7845541E1741549872&fbclid=PAZXh0bgNhZW0CMTEAAadFHl80G-E3BIg4HRl9j6M6Q6ER-sVG8ktx1iaLacKaKuZ6K6hg6Jn1nDrCow_aem_0fphAXvoeomF2TJ291SqbA&_branch_match_id=1464341969000098625&_branch_referrer=H4sIAAAAAAAAAwXBSQ6CMBQA0Nu4k0FNAybEFERRlCgSNWzIry20MhRLHeLCs%2Fse17of5qY5aAUvMKDvjUZ0tTmj6JtQ9vFTsijJrRHUO%2BD8yi1SJTy%2FWME%2BCzEGuooax1qPw6m%2FqWZR2rh3tEdHFKbj4bx2av2xBezgFkP8zFGMeIW2nd0tVSDfBbC2sMqe4%2BtLMtmuJtl24tqnB8Gjn2IlU0p0VUGUfA9MeQFXsmV%2FxVA0DLAAAAA%3D"
             target="_blank"
             rel="noopener noreferrer"
             className="text-gray-500 hover:text-gray-900 transition-colors duration-200"
